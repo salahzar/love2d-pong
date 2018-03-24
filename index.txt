@@ -1,0 +1,19 @@
+Read through the .lua files in a text editor!
+Don't know how to run the files? Try http://love2d.org/wiki/Getting_Started
+
+01 - A blank screen
+02 - A blank screen - part II
+03 - A WILD PADDLE HAS APPEARED
+04 - Movement
+05 - And now it can't go off the screen
+06 - A WILD SQUARE BALL HAS APPEARED
+07 - SQUARE BALL USES MOVE OFF THE SCREEN
+08 - IT'S NOT VERY EFFECTIVE
+09 - Bouncing off the paddle
+10 - Ball resets when out of play
+11 - A NEW CHALLENGER ENTERS
+12 - Now in color
+13 - Q or Esc quits
+14 - P for pause
+15 - The same, but with functions
+16 - The same, but with multiple files
